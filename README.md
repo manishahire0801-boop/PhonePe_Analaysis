@@ -1,8 +1,8 @@
 # 💜 PhonePe Payment Insights: Powering Bharat's Digital Transactions Dashboard
 
 A dynamic, interactive Power BI dashboard built to explore digital payment behaviour, focusing on transaction trends, payment success, customer age segments, service-wise revenue, and weekday vs weekend usage.
-
-![Dashboard Preview](dashboard.png)
+[
+![Dashboard Preview](dashboard.png)](https://github.com/manishahire0801-boop/PhonePe_Analaysis/blob/main/PhonePe_Analysis_dashboard.png)
 
 ---
 
