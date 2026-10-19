@@ -2,8 +2,8 @@
 
 An interactive Power BI dashboard that analyses digital payment transactions to show
 how users pay, what they pay for, and when they pay the most.
-
-![Dashboard Preview](dashboard.png)
+[
+![Dashboard Preview](dashboard.png)](https://github.com/manishahire0801-boop/PhonePe_Analaysis/blob/main/PhonePe_Analysis_dashboard.png)
 
 🎯 Objective
 Turn raw transaction and user data into clear business insights: transaction growth,
