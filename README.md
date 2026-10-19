@@ -119,4 +119,4 @@ Total Trans MOM           = DIVIDE([Total Transactions] - [Total Trans PM], [Tot
 This is a personal portfolio project built on a sample dataset. It is not affiliated with or endorsed by PhonePe.
 
 ## 👤 Author
-**Manish Ahire**: [LinkedIn](your-link-here)
+**Manish Ahire**: [LinkedIn]| linkedin.com/in/manish-ahire-132abb1b5
